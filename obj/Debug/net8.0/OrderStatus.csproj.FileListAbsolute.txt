@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\bin\Debug\net8.0\OrderStatus.exe
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\bin\Debug\net8.0\OrderStatus.deps.json
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\bin\Debug\net8.0\OrderStatus.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\bin\Debug\net8.0\OrderStatus.dll
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\bin\Debug\net8.0\OrderStatus.pdb
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.dll
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\refint\OrderStatus.dll
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.pdb
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\OrderStatus.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC12\source\repos\OrderStatus\obj\Debug\net8.0\ref\OrderStatus.dll
