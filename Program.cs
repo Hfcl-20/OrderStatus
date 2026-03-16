@@ -30,8 +30,8 @@ namespace LADERAS
         {
             Console.WriteLine("ACCOUNT MANAGEMENT SYSTEM");
 
-            string username = "redlouies";
-            string password = "123456";
+            string username = "onlybaddie";
+            string password = "1738679";
 
             Console.Write("Enter username: ");
             string usernameInput = Console.ReadLine();
