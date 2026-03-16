@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AGUILAR
+namespace LADERAS
 {
     internal class Program
     {
@@ -15,7 +15,7 @@ namespace AGUILAR
                 get
                 {
                     int days = (DateTime.Now - DateOrdered).Days;
-                    if (days == 0) return "Pending";
+                    if (days == 0) return "Pending...";
                     else if (days == 1) return "Processing";
                     else if (days == 2) return "Shipped";
                     else return "Delivered";
@@ -63,7 +63,7 @@ namespace AGUILAR
             }
             else
             {
-                Console.WriteLine("Invalid login.");
+                Console.WriteLine("Invalid login. Please try again.");
             }
         }
 
